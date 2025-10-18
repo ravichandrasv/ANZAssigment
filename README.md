@@ -228,5 +228,6 @@ Improve UI/UX with animations or Material3 components.
 
 
 
-Quick Demo Video -included
+Quick Demo Video -included -  Screen_recording_20251018_105931.webm
+Demo video added
 
