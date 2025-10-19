@@ -32,8 +32,6 @@ Unit testing for ViewModels and Repository.
 
 
 
-⚠️ Note: This is a minimal project for assignment purposes and is not production-ready.
-
 
 
 🛠 Technologies Used
@@ -192,31 +190,7 @@ All fields in User are Strings for simplicity.
 
 
 
-No offline caching (Room/Datastore not implemented).
-
-
-
 Minimal error handling for null users or network failures.
-
-
-
-💡 Possible Improvements
-
-
-
-Add pull-to-refresh for list screen.
-
-
-
-Implement offline caching with Room or DataStore.
-
-
-
-Pagination for large datasets.
-
-
-
-Improve UI/UX with animations or Material3 components.
 
 
 
@@ -228,6 +202,6 @@ Improve UI/UX with animations or Material3 components.
 
 
 
-Quick Demo Video -included -  Screen_recording_20251018_105931.webm
+Quick Demo Video -included -  Screen\_recording\_20251018\_105931.webm
 Demo video added
 
