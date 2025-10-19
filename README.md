@@ -198,10 +198,17 @@ Minimal error handling for null users or network failures.
 
 
 
-🎥 Demo Video
+🎥 Demo Video - Screen Shot
+
+
+
+Folder Path - https://github.com/ravichandrasv/ANZAssigment/tree/main/ScreenShotVideo
 
 
 
 Quick Demo Video -included -  Screen\_recording\_20251018\_105931.webm
-Demo video added
+
+ScreenShots  - included
+
+TestCase ScreenShot- Included
 
